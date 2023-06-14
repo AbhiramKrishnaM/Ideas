@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T18:56:25.750Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="g_-enUta3Ro7dh-NDWBj" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-14T19:19:01.030Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="6Ymm2KmxC4xnkz0j3WCj" version="21.4.0" type="github">
   <diagram name="Page-1" id="1QxMOZWRaGK2rKwOeCCK">
-    <mxGraphModel dx="3056" dy="2248" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1839" dy="2714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,45 +14,52 @@
         </mxCell>
         <mxCell id="snhwPRPtTpE_yRxgbHdB-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-630.14" y="-810" as="targetPoint" />
-            <mxPoint x="-680.14" y="-810" as="sourcePoint" />
+            <mxPoint x="-630.14" y="-734" as="targetPoint" />
+            <mxPoint x="-680.14" y="-734" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="snhwPRPtTpE_yRxgbHdB-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="snhwPRPtTpE_yRxgbHdB-7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-580.14" y="-760" as="targetPoint" />
+            <mxPoint x="-580.14" y="-684" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="snhwPRPtTpE_yRxgbHdB-7" value="Verify otp" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="-640.14" y="-840" width="120" height="60" as="geometry" />
+          <mxGeometry x="-640.14" y="-764" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="snhwPRPtTpE_yRxgbHdB-9" value="&lt;div&gt;User name &lt;br&gt;&lt;/div&gt;&lt;div&gt;Mobile number &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-790.14" y="-840" width="120" height="60" as="geometry" />
+          <mxGeometry x="-790.14" y="-764" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="snhwPRPtTpE_yRxgbHdB-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="snhwPRPtTpE_yRxgbHdB-11">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-470.14" y="-640" as="targetPoint" />
+            <mxPoint x="-470.14" y="-564" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="snhwPRPtTpE_yRxgbHdB-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="snhwPRPtTpE_yRxgbHdB-11" target="snhwPRPtTpE_yRxgbHdB-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="snhwPRPtTpE_yRxgbHdB-11" value="&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Is OTP Correct&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-620.14" y="-760" width="80" height="80" as="geometry" />
+          <mxGeometry x="-620.14" y="-684" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="snhwPRPtTpE_yRxgbHdB-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="snhwPRPtTpE_yRxgbHdB-13">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-470.14" y="-520" as="targetPoint" />
+            <mxPoint x="-470.14" y="-444" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="snhwPRPtTpE_yRxgbHdB-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="snhwPRPtTpE_yRxgbHdB-13" target="snhwPRPtTpE_yRxgbHdB-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="snhwPRPtTpE_yRxgbHdB-13" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Register user&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-510.14" y="-640" width="80" height="40" as="geometry" />
+          <mxGeometry x="-510.14" y="-564" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="snhwPRPtTpE_yRxgbHdB-17" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Login in user&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-510.14" y="-520" width="80" height="40" as="geometry" />
+        <mxCell id="snhwPRPtTpE_yRxgbHdB-17" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Login in passenger/driver&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-510.14" y="-444" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="snhwPRPtTpE_yRxgbHdB-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="snhwPRPtTpE_yRxgbHdB-20" target="snhwPRPtTpE_yRxgbHdB-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-260" y="-1330" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="snhwPRPtTpE_yRxgbHdB-20" value="User" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-360" y="-957" width="200" height="157" as="geometry" />
@@ -74,6 +81,37 @@
         </mxCell>
         <mxCell id="snhwPRPtTpE_yRxgbHdB-27" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;check user flag&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-180" y="-660" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="snhwPRPtTpE_yRxgbHdB-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="snhwPRPtTpE_yRxgbHdB-32" target="snhwPRPtTpE_yRxgbHdB-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="snhwPRPtTpE_yRxgbHdB-32" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;driver or passenger&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-770.14" y="-840" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="snhwPRPtTpE_yRxgbHdB-35" value="&lt;h1&gt;Driver/ User registration&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Registration process.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="-1101" width="320" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="snhwPRPtTpE_yRxgbHdB-36" value="&lt;h1&gt;Driver ride accept/reject&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Accepting rejecting ride.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-1600" width="320" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="snhwPRPtTpE_yRxgbHdB-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="snhwPRPtTpE_yRxgbHdB-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="-1360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="snhwPRPtTpE_yRxgbHdB-37" value="Notification" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-1490" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="snhwPRPtTpE_yRxgbHdB-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="snhwPRPtTpE_yRxgbHdB-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="-1240.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="snhwPRPtTpE_yRxgbHdB-39" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Accept ride, user information and location provided&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-1360" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="snhwPRPtTpE_yRxgbHdB-42" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Accept/reject&lt;br&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-1240" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
