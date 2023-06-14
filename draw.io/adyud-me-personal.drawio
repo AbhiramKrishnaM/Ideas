@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T18:54:14.786Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="_HG_TFY21Q9_mbOthsms" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-14T18:56:25.750Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="g_-enUta3Ro7dh-NDWBj" version="21.4.0" type="github">
   <diagram name="Page-1" id="1QxMOZWRaGK2rKwOeCCK">
-    <mxGraphModel dx="2097" dy="1749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3056" dy="2248" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -45,10 +45,7 @@
             <mxPoint x="-470.14" y="-520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="snhwPRPtTpE_yRxgbHdB-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="snhwPRPtTpE_yRxgbHdB-13" target="snhwPRPtTpE_yRxgbHdB-20">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="snhwPRPtTpE_yRxgbHdB-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="snhwPRPtTpE_yRxgbHdB-13" target="snhwPRPtTpE_yRxgbHdB-25">
+        <mxCell id="snhwPRPtTpE_yRxgbHdB-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="snhwPRPtTpE_yRxgbHdB-13" target="snhwPRPtTpE_yRxgbHdB-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="snhwPRPtTpE_yRxgbHdB-13" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Register user&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -58,16 +55,25 @@
           <mxGeometry x="-510.14" y="-520" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="snhwPRPtTpE_yRxgbHdB-20" value="User" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-319" y="-1077" width="230" height="170" as="geometry" />
+          <mxGeometry x="-360" y="-957" width="200" height="157" as="geometry" />
         </mxCell>
         <mxCell id="snhwPRPtTpE_yRxgbHdB-21" value="&lt;div&gt;user name&lt;/div&gt;&lt;div&gt;mobile number&lt;/div&gt;&lt;div&gt;location&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="snhwPRPtTpE_yRxgbHdB-20">
-          <mxGeometry y="50" width="230" height="120" as="geometry" />
+          <mxGeometry y="50" width="200" height="107" as="geometry" />
         </mxCell>
         <mxCell id="snhwPRPtTpE_yRxgbHdB-24" value="Drivers" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="-1077" width="230" height="170" as="geometry" />
+          <mxGeometry x="-120" y="-957" width="200" height="157" as="geometry" />
         </mxCell>
         <mxCell id="snhwPRPtTpE_yRxgbHdB-25" value="&lt;div&gt;Driver name &lt;br&gt;&lt;/div&gt;&lt;div&gt;mobile number&lt;/div&gt;&lt;div&gt;location&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="snhwPRPtTpE_yRxgbHdB-24">
-          <mxGeometry y="50" width="230" height="120" as="geometry" />
+          <mxGeometry y="50" width="200" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="snhwPRPtTpE_yRxgbHdB-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="snhwPRPtTpE_yRxgbHdB-27" target="snhwPRPtTpE_yRxgbHdB-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="snhwPRPtTpE_yRxgbHdB-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.557;entryY=0.995;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="snhwPRPtTpE_yRxgbHdB-27" target="snhwPRPtTpE_yRxgbHdB-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="snhwPRPtTpE_yRxgbHdB-27" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;check user flag&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="-660" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
