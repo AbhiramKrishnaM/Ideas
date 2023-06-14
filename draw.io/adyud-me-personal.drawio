@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T19:31:34.269Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="bK_RHN9TmtVVXAIoC6bc" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-14T19:40:40.322Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="vQSu3Gp8pw7IUSscQ0lS" version="21.4.0" type="github">
   <diagram name="Page-1" id="1QxMOZWRaGK2rKwOeCCK">
-    <mxGraphModel dx="1912" dy="2753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4435" dy="4065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -202,6 +202,64 @@
         </mxCell>
         <mxCell id="snhwPRPtTpE_yRxgbHdB-76" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Fetch drivers nearby&lt;br&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="498" y="-360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="snhwPRPtTpE_yRxgbHdB-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="snhwPRPtTpE_yRxgbHdB-83" target="snhwPRPtTpE_yRxgbHdB-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="snhwPRPtTpE_yRxgbHdB-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="snhwPRPtTpE_yRxgbHdB-83">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="-185" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="snhwPRPtTpE_yRxgbHdB-83" value="&lt;div&gt;Notify driver&lt;/div&gt;&lt;div&gt;passenger_current_location&lt;/div&gt;&lt;div&gt;passenger_destination&lt;/div&gt;&lt;div&gt;total_distance&lt;/div&gt;&lt;div&gt;passenger_id&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="-240" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="snhwPRPtTpE_yRxgbHdB-86" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Fetch distance &lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="698" y="-190" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="snhwPRPtTpE_yRxgbHdB-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="snhwPRPtTpE_yRxgbHdB-90">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="478" y="5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="snhwPRPtTpE_yRxgbHdB-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.009;entryY=0.157;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="snhwPRPtTpE_yRxgbHdB-90" target="snhwPRPtTpE_yRxgbHdB-83">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="-270" />
+              <mxPoint x="380" y="-270" />
+              <mxPoint x="380" y="-223" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="snhwPRPtTpE_yRxgbHdB-90" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Accept / Reject&lt;br&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="-225" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="snhwPRPtTpE_yRxgbHdB-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.995;entryY=0.811;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="snhwPRPtTpE_yRxgbHdB-92" target="snhwPRPtTpE_yRxgbHdB-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="-800" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="930" y="-10" />
+              <mxPoint x="930" y="-820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="snhwPRPtTpE_yRxgbHdB-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.48;entryY=0.041;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="snhwPRPtTpE_yRxgbHdB-92" target="snhwPRPtTpE_yRxgbHdB-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="snhwPRPtTpE_yRxgbHdB-92" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Set Status to waiting for ride&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="478" y="-40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="snhwPRPtTpE_yRxgbHdB-97" value="Accept " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-145" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="snhwPRPtTpE_yRxgbHdB-99" value="Reject" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="snhwPRPtTpE_yRxgbHdB-104" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="50" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
